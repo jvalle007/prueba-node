@@ -1,0 +1,6 @@
+Comandos utilizados por GIT
+
+git add . --> agrega todos los archivos
+git commit -m "mensaje" --> comitea los cambios hechos
+git push origin master --> envía los cambios al repositorio remoto
+git status --> seguimiento del estado de los archivos
