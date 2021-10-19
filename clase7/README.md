@@ -1,6 +1,6 @@
 # Comandos utilizados por GIT
 
-´´´git init --> crea el repositorio
+```git init --> crea el repositorio
 git config user.name "nombreUsuario" --> agrega nuestra identidad
 git config user.email --> agrega nuestro email
 git remote add origin https://github.com/username/repositorio.git --> apunta al repositorio remoto
